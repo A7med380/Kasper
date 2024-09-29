@@ -892,6 +892,7 @@ header nav .form i {
     border: 1px solid var(--main-color);
     width: fit-content;
     margin: 30px auto;
+    color: black;
 }
 
 .pricing .plans .single-plan .foot a:hover {
